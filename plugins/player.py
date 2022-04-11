@@ -501,9 +501,9 @@ async def not_chat(_, m: Message):
     else:
         buttons = [
             [
-                InlineKeyboardButton('⚡️Make Own Bot', url='https://github.com/subinps/VCPlayerBot'),
-                InlineKeyboardButton('🧩 Join Here', url='https://t.me/subin_works'),
+                InlineKeyboardButton('⚡️ᴄʜᴀɴɴᴇʟ', url='https://t.me/FPHDMOVE'),
+                InlineKeyboardButton('🧩 ᴊᴏɪɴ ʜᴇʀᴇ', url='https://t.me/MF_Movieschat'),
             ]
             ]
-        await m.reply("<b>You can't use this bot in this group, for that you have to make your own bot from the [SOURCE CODE](https://github.com/subinps/VCPlayerBot) below.</b>", disable_web_page_preview=True, reply_markup=InlineKeyboardMarkup(buttons))
+        await m.reply("<b>You can't use this bot in your group, contact the [OWNER](https://t.me/sangeeth006) for clone this bot, to use in your group </b>", disable_web_page_preview=True, reply_markup=InlineKeyboardMarkup(buttons))
 
